@@ -1,13 +1,13 @@
-[![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)]
+![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)
 <h1 align="center">Hi 👋, I'm Rajeev Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coder is doing coding.">
+<h3 align="center">I am a WebDeveloper and WebDesigner</h3>
+<!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coder is doing coding."> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeevjewar&label=Profile%20views&color=0e75b6&style=flat" alt="rajeevjewar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rajeevkumar0504" target="blank"><img src="https://img.shields.io/twitter/follow/rajeevkumar0504?logo=twitter&style=for-the-badge" alt="rajeevkumar0504" /></a> </p>
 
-- 🌱 I’m currently learning javascript **from The Complete JavaScript Course 2022: From Zero to Expert!**
+- 🌱 I’m currently learning WebDevelopment.
 
 - 💬 Ask me about **WebDevelopment,WebDesign**
 
