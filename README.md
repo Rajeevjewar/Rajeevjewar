@@ -24,7 +24,7 @@
 [![Dev](logos/Dev.svg)](https://dev.to/be_rajeevkumar)
 [![Hashnode](logos/Hashnode.svg)](https://hashnode.com/@beRajeevKumar)
 
-<details open> 
+<details close> 
   <summary><h2>🛠️ Tools & Technologies:</h2></summary><!-- # My Favorite Tools -->
 
 ### 👨‍💻 Programming & Markup Languages:
