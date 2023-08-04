@@ -1,5 +1,4 @@
-<img src="hero.jpeg" style="border-radius: 12px;"/>
-
+<img src="hero.jpeg" style="border-radius: 120px;"/>
 <h1 align="center">Hello, 👋 I’m Rajeev Kumar</h1>
 <div class="social-group" align="center">
 <a href="https://iamrajeev.me/" target="_blank"><img src="logos/Website.svg"></a>
