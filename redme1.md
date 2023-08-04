@@ -1,31 +1,4 @@
-<img src="Hero.png"/>
-<h1 align="center">Hello, 👋 I’m Rajeev Kumar</h1>
-<div class="social-group" align="center">
-<a href="https://iamrajeev.me/" target="_blank"><img src="logos/Website.svg"></a>
-<a href="https://www.linkedin.com/in/berajeevkumar/" target="_blank"><img src="logos/LinkedIn.svg"></a>
-<a href="mailto:rajeevjewar2@gmail.com" target="_blank"><img src="logos/Mail.svg"></a>
-<a href="https://twitter.com/be_rajeevkumar" target="_blank"><img src="logos/Twitter.svg"></a>
-<a href="https://www.threads.net/@be_rajeevkumar" target="_blank"><img src="logos/Threads.svg"></a>
-</div>
-
-## 🙋🏻 Profiles
-
-### 👨‍💻 Featured Profiles:
-
-[![Behance](logos/Behance.svg)](https://www.behance.net/be_rajeevkumar)
-[![Dribbble](logos/Dribbble.svg)](https://dribbble.com/be_rajeevkumar)
-[![Frontend Mentor](logos/Frontend-Mentor.svg)](https://www.frontendmentor.io/profile/Rajeevjewar)
-[![Geeks For Geeks](logos/GFG.svg)](https://auth.geeksforgeeks.org/user/rajeevjewar2)
-[![Leetcode](logos/Leetcode.svg)](https://leetcode.com/be_rajeevkumar/)
-
-### 📝 Read My Blogs:
-
-[![Medium](logos/Medium.svg)](https://medium.com/@be_rajeevkumar)
-[![Dev](logos/Dev.svg)](https://dev.to/be_rajeevkumar)
-[![Hashnode](logos/Hashnode.svg)](https://hashnode.com/@beRajeevKumar)
-
-<details open> 
-  <summary><h2>🛠️ Tools & Technologies:</h2></summary><!-- # My Favorite Tools -->
+# 🛠️ Tools & Technologies: <!-- # My Favorite Tools -->
 
 ### 👨‍💻 Programming & Markup Languages:
 
@@ -83,5 +56,3 @@
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-
-</details>
