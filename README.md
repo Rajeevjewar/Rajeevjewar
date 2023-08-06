@@ -1,11 +1,11 @@
 <img src="Hero.png"/>
 <h1 align="center">Hello, 👋 I’m Rajeev Kumar</h1>
 <div class="social-group" align="center">
-<a href="https://iamrajeev.me/" target="_blank"><img src="icons/Threads.svg"></a>
-<a href="https://www.linkedin.com/in/berajeevkumar/" target="_blank"><img src="icons/Threads.svg"></a>
-<a href="mailto:rajeevjewar2@gmail.com" target="_blank"><img src="icons/Threads.svg"></a>
-<a href="https://twitter.com/be_rajeevkumar" target="_blank"><img src="icons/Threads.svg"></a>
-<a href="https://www.threads.net/@be_rajeevkumar" target="_blank"><img src="icons/Threads.svg"></a>
+<a href="https://iamrajeev.me/" target="_blank"><img src="logos/Website.svg"></a>
+<a href="https://www.linkedin.com/in/berajeevkumar/" target="_blank"><img src="logos/LinkedIn.svg"></a>
+<a href="mailto:rajeevjewar2@gmail.com" target="_blank"><img src="logos/Mail.svg"></a>
+<a href="https://twitter.com/be_rajeevkumar" target="_blank"><img src="logos/Twitter.svg"></a>
+<a href="https://www.threads.net/@be_rajeevkumar" target="_blank"><img src="logos/Threads.svg"></a>
 </div>
 
 ## 🙋🏻 Profiles
