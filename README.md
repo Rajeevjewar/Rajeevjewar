@@ -88,5 +88,10 @@
 
 <details close> 
   <summary><h2>🚀 Feat Projects</h2></summary>
-  
+  <div align="center" style="display: grid; grid-template-columns: 1fr 1fr; row-gap: 20px">
+<img src="kanban.gif" style="widht: 128px; height:128px"/>
+<img src="kanban.gif" style="widht: 128px; height:128px"/>
+<img src="kanban.gif" style="widht: 128px; height:128px"/>
+<img src="kanban.gif" style="widht: 128px; height:128px"/>
+</div>
 </details>
