@@ -95,7 +95,7 @@
 <a href="https://github.com/Rajeevjewar/Bankist.git" target="_blank"><img src="bankist.gif" style="widht: 128px; height:128px"/></a>
 </div>
 
-<div>
+<div align="center"style="margin-top: 10px;">
 <a href="https://iamrajeev.me/" target="_blank"><img src="images/frontend.svg"></a>
 <a href="https://iamrajeev.me/" target="_blank"><img src="images/course.svg"></a>
 <a href="https://iamrajeev.me/" target="_blank"><img src="images/own.svg"></a>
