@@ -95,10 +95,10 @@
 <a href="https://github.com/Rajeevjewar/Bankist.git" target="_blank"><img src="bankist.gif" style="widht: 128px; height:128px"/></a>
 </div>
 
-<div align="center"style="margin-top: 10px;">
-<a href="https://iamrajeev.me/" target="_blank"><img src="images/frontend.svg"></a>
-<a href="https://iamrajeev.me/" target="_blank"><img src="images/course.svg"></a>
-<a href="https://iamrajeev.me/" target="_blank"><img src="images/own.svg"></a>
+<div align="center" style="margin-top: 10px;">
+<a href="https://github.com/Rajeevjewar/Frontend-Mentor-Projects.git" target="_blank"><img src="images/frontend.svg"></a>
+<a href="https://github.com/Rajeevjewar/Course-Projects.git" target="_blank"><img src="images/course.svg"></a>
+<a href="https://github.com/Rajeevjewar/MyProjects.git" target="_blank"><img src="images/own.svg"></a>
 </div>
 
 </details>
@@ -111,5 +111,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeevjewar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </details>
-
-<a href="https://github.com/sponsors/DenverCoder1/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
