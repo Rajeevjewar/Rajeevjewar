@@ -1,4 +1,4 @@
-<img src="Hero.png"/>
+<img src="images/Hero.png"/>
 <h1 align="center">Hello, 👋 I’m Rajeev Kumar</h1>
 <div class="social-group" align="center">
 <a href="https://iamrajeev.me/" target="_blank"><img src="logos/Website.svg"></a>
@@ -26,11 +26,11 @@
 
 <details open> 
   <summary><h2>🚀 Feat Projects</h2></summary>
-  <div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 20px;">
-<a href="https://github.com/Rajeevjewar/Kanban-Task-Management.git" target="_blank"><img src="kanban.gif" style="widht: 128px; height:128px"/></a>
-<a href="https://github.com/Rajeevjewar/Memory-Game.git" target="_blank"><img src="memory-big.gif" style="widht: 128px; height:128px"/></a>
-<a href="https://github.com/Rajeevjewar/Markdown-Editor.git" target="_blank"><img src="markdown-big.gif" style="widht: 128px; height:128px"/></a>
-<a href="https://github.com/Rajeevjewar/Bankist.git" target="_blank"><img src="bankist.gif" style="widht: 128px; height:128px"/></a>
+<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 20px;">
+<a href="https://github.com/Rajeevjewar/Kanban-Task-Management.git" target="_blank"><img src="images/kanban.gif" style="widht: 128px; height:128px"/></a>
+<a href="https://github.com/Rajeevjewar/Memory-Game.git" target="_blank"><img src="images/memory-big.gif" style="widht: 128px; height:128px"/></a>
+<a href="https://github.com/Rajeevjewar/Markdown-Editor.git" target="_blank"><img src="images/markdown-big.gif" style="widht: 128px; height:128px"/></a>
+<a href="https://github.com/Rajeevjewar/Bankist.git" target="_blank"><img src="images/bankist.gif" style="widht: 128px; height:128px"/></a>
 </div>
 
 <div align="center" style="margin-top: 10px;">
@@ -106,7 +106,7 @@
   <summary><h2>📈 GitHub Stats</h2></summary>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajeevjewar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Rajeevjewar&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br/>
+![](https://github-readme-stats.vercel.app/api?username=Rajeevjewar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeevjewar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </details>
