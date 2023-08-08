@@ -88,12 +88,19 @@
 
 <details close> 
   <summary><h2>🚀 Feat Projects</h2></summary>
-  <div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px">
-<img src="kanban.gif" style="widht: 128px; height:128px"/>
-<img src="memory-big.gif" style="widht: 128px; height:128px"/>
-<img src="markdown-big.gif" style="widht: 128px; height:128px"/>
-<img src="bankist.gif" style="widht: 128px; height:128px"/>
+  <div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 20px;">
+<a href="https://github.com/Rajeevjewar/Kanban-Task-Management.git" target="_blank"><img src="kanban.gif" style="widht: 128px; height:128px"/></a>
+<a href="https://github.com/Rajeevjewar/Memory-Game.git" target="_blank"><img src="memory-big.gif" style="widht: 128px; height:128px"/></a>
+<a href="https://github.com/Rajeevjewar/Markdown-Editor.git" target="_blank"><img src="markdown-big.gif" style="widht: 128px; height:128px"/></a>
+<a href="https://github.com/Rajeevjewar/Bankist.git" target="_blank"><img src="bankist.gif" style="widht: 128px; height:128px"/></a>
 </div>
+
+<div>
+<a href="https://iamrajeev.me/" target="_blank"><img src="images/frontend.svg"></a>
+<a href="https://iamrajeev.me/" target="_blank"><img src="images/course.svg"></a>
+<a href="https://iamrajeev.me/" target="_blank"><img src="images/own.svg"></a>
+</div>
+
 </details>
 
 <details close> 
@@ -104,3 +111,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeevjewar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </details>
+
+<a href="https://github.com/sponsors/DenverCoder1/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
