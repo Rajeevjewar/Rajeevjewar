@@ -8,9 +8,9 @@
 <a href="https://www.threads.net/@be_rajeevkumar" target="_blank"><img src="logos/Threads.svg"></a>
 </div>
 
-## 🙋🏻 Profiles
+## 🙋🏻 Featured Profiles
 
-### 👨‍💻 Featured Profiles:
+### 👨‍💻 Design & Code:
 
 [![Behance](logos/Behance.svg)](https://www.behance.net/be_rajeevkumar)
 [![Dribbble](logos/Dribbble.svg)](https://dribbble.com/be_rajeevkumar)
