@@ -15,7 +15,7 @@
 [![Behance](logos/Behance.svg)](https://www.behance.net/be_rajeevkumar)
 [![Dribbble](logos/Dribbble.svg)](https://dribbble.com/be_rajeevkumar)
 [![Frontend Mentor](logos/Frontend-Mentor.svg)](https://www.frontendmentor.io/profile/Rajeevjewar)
-[![Geeks For Geeks](logos/GFG.svg)](https://auth.geeksforgeeks.org/user/rajeevjewar2)
+[![Geeks For Geeks](logos/GFG.svg)](https://auth.geeksforgeeks.org/user/be_rajeevkumar)
 [![Leetcode](logos/Leetcode.svg)](https://leetcode.com/be_rajeevkumar/)
 
 ### 📝 Read My Blogs:
