@@ -105,8 +105,8 @@
 <details close> 
   <summary><h2>📈 GitHub Stats</h2></summary>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rajeevjewar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Rajeevjewar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeevjewar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=beRajeevKumar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=beRajeevKumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=beRajeevKumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </details>
