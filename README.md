@@ -25,14 +25,14 @@
 [![Hashnode](logos/Hashnode.svg)](https://hashnode.com/@beRajeevKumar)
 
 <details open> 
-  <summary><h2>🚀 Feat Projects</h2></summary>
+  <summary><h2>🚀 Featured Projects</h2></summary>
 <div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 20px;">
 <a href="https://github.com/Rajeevjewar/Kanban-Task-Management.git" target="_blank"><img src="images/kanban.gif" style="widht: 128px; height:128px"/></a>
 <a href="https://github.com/Rajeevjewar/Memory-Game.git" target="_blank"><img src="images/memory-big.gif" style="widht: 128px; height:128px"/></a>
 <a href="https://github.com/Rajeevjewar/Markdown-Editor.git" target="_blank"><img src="images/markdown-big.gif" style="widht: 128px; height:128px"/></a>
 <a href="https://github.com/Rajeevjewar/Bankist.git" target="_blank"><img src="images/bankist.gif" style="widht: 128px; height:128px"/></a>
 </div>
-
+<br>
 <div align="center" style="margin-top: 10px;">
 <a href="https://github.com/Rajeevjewar/Frontend-Mentor-Projects.git" target="_blank"><img src="images/frontend.svg"></a>
 <a href="https://github.com/Rajeevjewar/Course-Projects.git" target="_blank"><img src="images/course.svg"></a>
