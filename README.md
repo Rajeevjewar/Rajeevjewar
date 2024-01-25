@@ -29,7 +29,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">  
-<h3 align="center">Kanban Task Manager</h2>
+<h3 align="center"> 📋 Kanban Task Manager 🗓️</h2>
 <div align="center" >
 
 [Weather Dashboard](https://user-images.githubusercontent.com/97356401/200140593-73171a2f-66e0-4524-86ed-930e2618b2a8.webm)
@@ -47,7 +47,7 @@
 </td>
 <!--------MOVIE REVIEW APP--------->  
 <td width="50%" valign="top">
-  <h3 align="center">MCU Movie Review App</h2>
+  <h3 align="center">🧠 Memory Game 🎮</h2>
 
   <div align="center" >  
   <a href='https://nereidarondon.com/'</a>
