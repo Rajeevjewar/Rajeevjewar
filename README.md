@@ -30,7 +30,6 @@
 <a href="https://github.com/Rajeevjewar/Kanban-Task-Management.git" target="_blank"><img src="images/Card.jpg" style="widht: 128px; height:128px"/></a>
 <a href="https://github.com/Rajeevjewar/Memory-Game.git" target="_blank"><img src="images/Card.jpg" style="widht: 128px; height:128px"/></a>
 <a href="https://github.com/Rajeevjewar/Markdown-Editor.git" target="_blank"><img src="images/Card.jpg" style="widht: 128px; height:128px"/></a>
-<a href="https://github.com/Rajeevjewar/Bankist.git" target="_blank"><img src="images/Card.jpg" style="widht: 128px; height:128px"/></a>
 </div>
 <br>
 <div align="center" style="margin-top: 10px;">
