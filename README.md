@@ -32,7 +32,7 @@
 <h3 align="center"> 📋 Kanban Task Manager 🗓️</h3>
 <div align="center" >
 
-[Weather Dashboard](https://user-images.githubusercontent.com/97356401/200140593-73171a2f-66e0-4524-86ed-930e2618b2a8.webm)
+[Weather Dashboard](kanban.gif)
 
 <br>
 <div align="center">
@@ -50,7 +50,7 @@
 <h3 align="center">🧠 Memory Game 🎮</h3>
 <div align="center">
 
-[Movie Review](https://user-images.githubusercontent.com/97356401/200150968-b07db472-0386-4460-819c-dd7e721eaae3.webm)
+[Movie Review](memory-big.gif)
 
 <br>    
 <div align="center">
