@@ -37,10 +37,10 @@
 <br>
 <p>
   <a href="https://github.com/beRajeevKumar/Kanban-Task-Management.git" target="_blank">
-  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/></a>
-    
+  <img src="/images/Code.png"/></a>
+    &nbsp;
   <a href="https://kanban-task-management-rajeev.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=001ac2"/>
+  <img src="/images/Visit-Project.png"/>
   </a>
 </p>
 </div>
@@ -57,10 +57,10 @@
 <br>    
 <p>
   <a href="https://github.com/beRajeevKumar/Memory-Game.git" target="_blank">
-  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/></a>
-    
+  <img src="/images/Code.png"/></a>
+    &nbsp;
   <a href="https://memory-game-rajeev.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=001ac2"/>
+  <img src="/images/Visit-Project.png"/>
   </a>
 </p>
 </div>
