@@ -106,9 +106,14 @@
 </div>
 </td>
 </tr>
-
 </table>
 </details>
+<br>
+<div align="center" style="margin-top: 10px;">
+<a href="https://github.com/Rajeevjewar/Frontend-Mentor-Projects.git" target="_blank"><img src="images/frontend.svg"></a>
+<a href="https://github.com/Rajeevjewar/Course-Projects.git" target="_blank"><img src="images/course.svg"></a>
+<a href="https://github.com/Rajeevjewar/MyProjects.git" target="_blank"><img src="images/own.svg"></a>
+</div>
 
 <details close> 
   <summary><h2>🛠️ Tools & Technologies</h2></summary><!-- # My Favorite Tools -->
