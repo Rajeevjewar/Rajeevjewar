@@ -43,12 +43,6 @@
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=001ac2"/>
   </a>
 </p>
- 
- <p><strong>React, React-Bootstrap, React-Router, Create-React-App, JSX, CSS, Axios, deployed on Netlify</strong></p>
- <details align="left">
-   <summary><strong>About Project</strong></summary>
-    <p>This app gives the user's local weather and has a dashboard that stores "favorite" locations searched by the user with API     integration. These locations' weather can be updated or deleted to make room for another destination. There is also a map         page. This project uses the Open weather API and Google's Geo Location API, as well as Google's Static Map API and Directions     API.</p>
- </details>
 </div>
 </td>
 <!--------MOVIE REVIEW APP--------->  
@@ -69,18 +63,12 @@
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=001ac2"/>
   </a>
 </p>
-  
-<p><strong>React, Bootstrap, Create-React-App, JSX, CSS, Figma, deployed on GitHub pages</strong></p>
-
- <details align="left">
-   <summary><strong>About Project</strong></summary>    
-    <p>This Movie App includes all 30 MCU movies from 2008-2022. Movies have a Title, year released, a movie synopsis when user       hovers over the image.</p>
- </details>  
 </div>
 </td>
 </tr>
 </table>
 </details>
+
 <details close> 
   <summary><h2>🛠️ Tools & Technologies</h2></summary><!-- # My Favorite Tools -->
 
