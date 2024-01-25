@@ -32,7 +32,7 @@
 <h3 align="center"> 📋 Kanban Task Manager 🗓️</h3>
 <div align="center" >
 
-<img src="images/kanban.gif" style="widht: 600px; height:375px"/>
+<img src="images/kanban.gif" style="widht: 600px; height:300px"/>
 
 <br>
 <div align="center">
@@ -50,7 +50,7 @@
 <h3 align="center">🧠 Memory Game 🎮</h3>
 <div align="center">
 
-<img src="images/memory-big.gif" style="widht: 600px; height:375px"/>
+<img src="images/memory-big.gif" style="widht: 600px; height:300px"/>
 
 <br>    
 <div align="center">
