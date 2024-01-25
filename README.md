@@ -38,10 +38,10 @@
 <br>
 <div align="center">
   <a href="https://github.com/beRajeevKumar/Kanban-Task-Management.git" target="_blank">
-  <img src="/images/Code.svg"/></a>
+  <img src="/images/Code.svg" style="widht: 110px; height:36px"/></a>
    &nbsp;&nbsp;
   <a href="https://kanban-task-management-rajeev.vercel.app/" target="_blank">
-  <img src="/images/Visit-Project.svg"/>
+  <img src="/images/Visit-Project.svg" style="widht: 125px; height:36px"/>
   </a>
 </div>
 </div>
@@ -57,10 +57,10 @@
 <br>  
 <div align="center">
 <a href="https://github.com/beRajeevKumar/Memory-Game.git" target="_blank">
-  <img src="/images/Code.svg"/></a>
+  <img src="/images/Code.svg" style="widht: 110px; height:36px"/></a>
   &nbsp;&nbsp;
   <a href="https://memory-game-rajeev.vercel.app/" target="_blank">
-  <img src="/images/Visit-Project.svg"/>
+  <img src="/images/Visit-Project.svg" style="widht: 125px; height:36px"/>
   </a>
 </div>
 </div>
@@ -78,10 +78,10 @@
 <br>
 <div align="center">
   <a href="https://github.com/beRajeevKumar/Markdown-Editor.git" target="_blank">
-  <img src="/images/Code.svg"/></a>
+  <img src="/images/Code.svg" style="widht: 110px; height:36px"/></a>
    &nbsp;&nbsp;
   <a href="https://markdown-editor-rajeev.vercel.app/" target="_blank">
-  <img src="/images/Visit-Project.svg"/>
+  <img src="/images/Visit-Project.svg" style="widht: 125px; height:36px"/>
   </a>
 </div>
 </div>
@@ -97,10 +97,10 @@
 <br>  
 <div align="center">
 <a href="https://github.com/beRajeevKumar/Bankist.git" target="_blank">
-  <img src="/images/Code.svg"/></a>
+  <img src="/images/Code.svg" style="widht: 110px; height:36px"/></a>
   &nbsp;&nbsp;
   <a href="https://bankist-rajeev.netlify.app/" target="_blank">
-  <img src="/images/Visit-Project.svg"/>
+  <img src="/images/Visit-Project.svg" style="widht: 125px; height:36px"/>
   </a>
 </div>
 </div>
