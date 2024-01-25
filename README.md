@@ -26,18 +26,60 @@
 
 <details open> 
   <summary><h2>🚀 Featured Projects</h2></summary>
-<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 20px;">
-<a href="https://github.com/Rajeevjewar/Kanban-Task-Management.git" target="_blank"><img src="images/Card.jpg" style="widht: 128px; height:128px"/></a>
-<a href="https://github.com/Rajeevjewar/Memory-Game.git" target="_blank"><img src="images/Card.jpg" style="widht: 128px; height:128px"/></a>
-<a href="https://github.com/Rajeevjewar/Markdown-Editor.git" target="_blank"><img src="images/Card.jpg" style="widht: 128px; height:128px"/></a>
-</div>
-<br>
-<div align="center" style="margin-top: 10px;">
-<a href="https://github.com/Rajeevjewar/Frontend-Mentor-Projects.git" target="_blank"><img src="images/frontend.svg"></a>
-<a href="https://github.com/Rajeevjewar/Course-Projects.git" target="_blank"><img src="images/course.svg"></a>
-<a href="https://github.com/Rajeevjewar/MyProjects.git" target="_blank"><img src="images/own.svg"></a>
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">  
+<h3 align="center">Weather Dashboard</h2>
+<div align="center" >  
+  
+  [Weather Dashboard](https://user-images.githubusercontent.com/97356401/200140593-73171a2f-66e0-4524-86ed-930e2618b2a8.webm)
 
+<br>  
+<p>
+  <a href="https://github.com/NereidaRondon/weather-dashboard/blob/main/README.md" target="_blank">
+  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/></a>
+    
+  <a href="https://myweatherdashboard.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=001ac2"/>
+  </a>
+</p>
+ 
+ <p><strong>React, React-Bootstrap, React-Router, Create-React-App, JSX, CSS, Axios, deployed on Netlify</strong></p>
+ <details align="left">
+   <summary><strong>About Project</strong></summary>
+    <p>This app gives the user's local weather and has a dashboard that stores "favorite" locations searched by the user with API     integration. These locations' weather can be updated or deleted to make room for another destination. There is also a map         page. This project uses the Open weather API and Google's Geo Location API, as well as Google's Static Map API and Directions     API.</p>
+ </details>
+</div>
+</td>
+<!--------MOVIE REVIEW APP--------->  
+<td width="50%" valign="top">
+  <h3 align="center">MCU Movie Review App</h2>
+
+  <div align="center" >  
+  <a href='https://nereidarondon.com/'</a>
+
+[Movie Review](https://user-images.githubusercontent.com/97356401/200150968-b07db472-0386-4460-819c-dd7e721eaae3.webm)
+
+<br>    
+<p>
+  <a href="https://github.com/NereidaRondon/MCUMovies.git" target="_blank">
+  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/></a>
+    
+  <a href="https://nereidarondon.github.io/MCUMovies/" target="_blank">
+  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=001ac2"/>
+  </a>
+</p>
+  
+<p><strong>React, Bootstrap, Create-React-App, JSX, CSS, Figma, deployed on GitHub pages</strong></p>
+
+ <details align="left">
+   <summary><strong>About Project</strong></summary>    
+    <p>This Movie App includes all 30 MCU movies from 2008-2022. Movies have a Title, year released, a movie synopsis when user       hovers over the image.</p>
+ </details>  
+</div>
+</td>
+</tr>
+</table>
 </details>
 <details close> 
   <summary><h2>🛠️ Tools & Technologies</h2></summary><!-- # My Favorite Tools -->
