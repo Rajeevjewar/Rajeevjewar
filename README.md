@@ -38,6 +38,7 @@
 <div align="center">
   <a href="https://github.com/beRajeevKumar/Kanban-Task-Management.git" target="_blank">
   <img src="/images/Code.svg"/></a>
+   &nbsp;&nbsp;
   <a href="https://kanban-task-management-rajeev.vercel.app/" target="_blank">
   <img src="/images/Visit-Project.svg"/>
   </a>
@@ -55,7 +56,7 @@
 <div align="center">
 <a href="https://github.com/beRajeevKumar/Memory-Game.git" target="_blank">
   <img src="/images/Code.svg"/></a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://memory-game-rajeev.vercel.app/" target="_blank">
   <img src="/images/Visit-Project.svg"/>
   </a>
