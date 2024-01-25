@@ -35,6 +35,8 @@
 <img src="images/kanban.gif" style="widht: 600px; height:250px"/>
 
 <br>
+<br>
+<br>
 <div align="center">
   <a href="https://github.com/beRajeevKumar/Kanban-Task-Management.git" target="_blank">
   <img src="/images/Code.svg"/></a>
@@ -52,7 +54,9 @@
 
 <img src="images/memory-big.gif" style="widht: 600px; height:250px"/>
 
-<br>    
+<br>
+<br>
+<br>   
 <div align="center">
 <a href="https://github.com/beRajeevKumar/Memory-Game.git" target="_blank">
   <img src="/images/Code.svg"/></a>
