@@ -66,6 +66,47 @@
 </div>
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">  
+<h3 align="center"> 📝 Markdown Editor 🧑‍💻</h3>
+<div align="center" >
+
+<img src="images/markdown-big.gif" style="widht: 600px; height:250px"/>
+
+<br>
+<br>
+<div align="center">
+  <a href="https://github.com/beRajeevKumar/Markdown-Editor.git" target="_blank">
+  <img src="/images/Code.svg"/></a>
+   &nbsp;&nbsp;
+  <a href="https://markdown-editor-rajeev.vercel.app/" target="_blank">
+  <img src="/images/Visit-Project.svg"/>
+  </a>
+</div>
+</div>
+</td>
+<!--------MOVIE REVIEW APP--------->  
+<td width="50%" valign="top">
+<h3 align="center">💵 Bankist 💰</h3>
+<div align="center">
+
+<img src="images/bankist.gif" style="widht: 600px; height:250px"/>
+
+<br>
+<br>  
+<div align="center">
+<a href="https://github.com/beRajeevKumar/Bankist.git" target="_blank">
+  <img src="/images/Code.svg"/></a>
+  &nbsp;&nbsp;
+  <a href="https://bankist-rajeev.netlify.app/" target="_blank">
+  <img src="/images/Visit-Project.svg"/>
+  </a>
+</div>
+</div>
+</td>
+</tr>
+
 </table>
 </details>
 
