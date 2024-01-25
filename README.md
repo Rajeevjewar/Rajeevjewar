@@ -35,17 +35,12 @@
 [Weather Dashboard](https://user-images.githubusercontent.com/97356401/200140593-73171a2f-66e0-4524-86ed-930e2618b2a8.webm)
 
 <br>
-<div style="display: flex;align-items: center;">
-<div>
+<div align="center">
   <a href="https://github.com/beRajeevKumar/Kanban-Task-Management.git" target="_blank">
   <img src="/images/Code.png"/></a>
- </div> 
-    &nbsp;
-<div>
   <a href="https://kanban-task-management-rajeev.vercel.app/" target="_blank">
   <img src="/images/Visit-Project.png"/>
   </a>
-</div>
 </div>
 </div>
 </td>
@@ -57,17 +52,12 @@
 [Movie Review](https://user-images.githubusercontent.com/97356401/200150968-b07db472-0386-4460-819c-dd7e721eaae3.webm)
 
 <br>    
-<div style="display: flex;align-items: center;">
-<div>
+<div align="center">
 <a href="https://github.com/beRajeevKumar/Memory-Game.git" target="_blank">
   <img src="/images/Code.png"/></a>
-</div>  
-  &nbsp;
-<div>
   <a href="https://memory-game-rajeev.vercel.app/" target="_blank">
   <img src="/images/Visit-Project.png"/>
   </a>
-</div>  
 </div>
 </div>
 </td>
