@@ -55,6 +55,7 @@
 <div align="center">
 <a href="https://github.com/beRajeevKumar/Memory-Game.git" target="_blank">
   <img src="/images/Code.svg"/></a>
+  &nbsp;
   <a href="https://memory-game-rajeev.vercel.app/" target="_blank">
   <img src="/images/Visit-Project.svg"/>
   </a>
