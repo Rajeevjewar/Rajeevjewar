@@ -29,17 +29,15 @@
 <table>
 <tr>
 <td width="50%" valign="top">  
-<h3 align="center">Weather Dashboard</h2>
+<h3 align="center">Kanban Task Manager</h2>
 <div align="center" >  
-  
   [Weather Dashboard](https://user-images.githubusercontent.com/97356401/200140593-73171a2f-66e0-4524-86ed-930e2618b2a8.webm)
-
-<br>  
+<br>
 <p>
-  <a href="https://github.com/NereidaRondon/weather-dashboard/blob/main/README.md" target="_blank">
+  <a href="https://github.com/beRajeevKumar/Kanban-Task-Management.git" target="_blank">
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/></a>
     
-  <a href="https://myweatherdashboard.netlify.app/" target="_blank">
+  <a href="https://kanban-task-management-rajeev.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=001ac2"/>
   </a>
 </p>
@@ -56,10 +54,10 @@
 
 <br>    
 <p>
-  <a href="https://github.com/NereidaRondon/MCUMovies.git" target="_blank">
+  <a href="https://github.com/beRajeevKumar/Memory-Game.git" target="_blank">
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/></a>
     
-  <a href="https://nereidarondon.github.io/MCUMovies/" target="_blank">
+  <a href="https://memory-game-rajeev.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=001ac2"/>
   </a>
 </p>
