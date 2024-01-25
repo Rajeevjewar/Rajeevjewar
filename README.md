@@ -30,8 +30,10 @@
 <tr>
 <td width="50%" valign="top">  
 <h3 align="center">Kanban Task Manager</h2>
-<div align="center" >  
-  [Weather Dashboard](https://user-images.githubusercontent.com/97356401/200140593-73171a2f-66e0-4524-86ed-930e2618b2a8.webm)
+<div align="center" >
+
+[Weather Dashboard](https://user-images.githubusercontent.com/97356401/200140593-73171a2f-66e0-4524-86ed-930e2618b2a8.webm)
+
 <br>
 <p>
   <a href="https://github.com/beRajeevKumar/Kanban-Task-Management.git" target="_blank">
